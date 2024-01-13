@@ -31,7 +31,7 @@ src =https://github.com/siilver94/Graduate-School-Admissions-Predictions/assets/
 
 **- t2-2-X_train:** 학습 데이터의 특성 값
 
-**- t2-2-y_train:** 학습 데이터의 목표값, 즉 **"Chance of Admit"**
+**- t2-2-y_train:** 학습 데이터의 목표값, 즉 "Chance of Admit"
 
 **- t2-2-X_test:** 모델 평가를 위한 테스트 데이터의 특성 값
 
