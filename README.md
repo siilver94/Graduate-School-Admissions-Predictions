@@ -1,4 +1,4 @@
-# 대학원 입학 예측하기(Graduate School Admissions Predictions)
+# 대학원 입학 예측 프로젝트(Graduate School Admissions Predictions)
 
 <br/>
 
